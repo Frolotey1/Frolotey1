@@ -3,7 +3,7 @@
 
 `1. My nickname is Frolotey1.`
 
-`2. I work with four programming languages such as: C, C++, Java and Kotlin. I am a beginner programmer and will improve my skills in working with Github and technologies.`
+`2. I work with four programming languages such as: C, C++, Java and Kotlin. I am a beginner programmer and i'll improve my skills in working with Github and technologies.`
 
 `3. My favourite programming languages are C++ and C. I spend oft time with these languages because they allow me work with pointers, links, preprocessor directives, memory, registers and etc.`
 
