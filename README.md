@@ -1,7 +1,7 @@
 
 ## ABOUT ME
 
-`1. My nickname is Frolotey1.`
+`1. My nickname is fr1zb3e.`
 
 `2. I work with four programming languages such as: C, C++, Java and Kotlin. I am a beginner programmer and i'll improve my skills in working with Github and technologies.`
 
