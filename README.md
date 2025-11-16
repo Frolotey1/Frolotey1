@@ -3,7 +3,7 @@
 
 `1. My nickname is fr1zb3e.`
 
-`2. I work with four programming languages such as: C, C++, Java and Kotlin. I am a beginner programmer and i'll improve my skills in working with Github and other technologies.`
+`2. I work with three programming languages such as: C, C++, Java. I am a beginner programmer and i'll improve my skills in working with Github and other technologies.`
 
 `3. My favourite programming languages are C++ and C. I spend oft time with these languages because they allow to work with pointers, links, preprocessor directives, memory, registers and etc.`
 
