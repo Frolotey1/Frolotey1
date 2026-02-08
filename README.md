@@ -9,6 +9,6 @@
 
 `4. I use Rust for system-programming with C++ togethere. I don't know the whole language but i'll learn it farther. Rust will my good part in my stack with C and C++ languages.`
 
-`4. I have a small experience of the working with CMake and Git yet.`
+`5. I have a small experience of the working with CMake and Git yet.`
 
 `5. I am student of the second course in my IT-college but i have already a few projects. However, these projects have a "crutch code" and i'll try write the more correct and clean code.`
