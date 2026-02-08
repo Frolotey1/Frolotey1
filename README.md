@@ -11,4 +11,4 @@
 
 `5. I have a small experience of the working with CMake and Git yet.`
 
-`5. I am student of the second course in my IT-college but i have already a few projects. However, these projects have a "crutch code" and i'll try write the more correct and clean code.`
+`6. I am student of the second course in my IT-college but i have already a few projects. However, these projects have a "crutch code" and i'll try write the more correct and clean code.`
