@@ -12,8 +12,6 @@
 - 📚 Currently studying **CMake**, **Git**, and modern development workflows
 - 🌍 From **Russia**
 
-> *"I write code that works for now — but I'm always striving for clean, maintainable, and correct solutions"*
-
 ---
 
 ## 🛠️ Tech Stack
