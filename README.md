@@ -50,7 +50,7 @@ A lightweight console utility written in Java with bilingual support (Deutsch/En
 ### 🛒 SeniorShop
 [![Check the project](https://github-readme-stats.vercel.app/api/pin/?username=fr1zb3e&repo=SeniorShop&theme=dark)](https://github.com/Frolotey1/SeniorShop)
 
-An e-commerce application demonstrating OOP principles in C++.
+The application which demonstrating OOP principles in C++.
 
 ---
 
