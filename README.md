@@ -77,9 +77,11 @@ A development the AI-Agent for the technic support.
 
 ## 📚 Currently Learning
 
-- 🧠 Advanced **C#** (.NET, LINQ, Async/Await)
-- 🔧 Advanced **C++** (STL, Smart Pointers, Move Semantics)
-- 🐧 Linux System Programming
-- 🛠️ Git Workflows & Collaboration
+| Technology | Focus Area |
+|------------|------------|
+| 🖥️ Qt Framework | Cross-platform GUI, QML, Signals & Slots |
+| 🌐 ASP.NET Core | Web APIs, MVC, RESTful services |
+| 🐧 Linux System Programming | Processes, memory management, system calls |
+| 🛠️ Git Workflows | Branching strategies, code review, CI/CD |
 
 ---
