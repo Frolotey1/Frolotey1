@@ -52,10 +52,12 @@ A lightweight console utility written in Java with bilingual support (Deutsch/En
 ### 🛒 SeniorShop
 [![Check the project](https://github-readme-stats.vercel.app/api/pin/?username=fr1zb3e&repo=SeniorShop&theme=dark)](https://github.com/SeniorShop/SeniorShop)
 
-The application which demonstrating OOP principles in C++.
+An application which demonstrating OOP principles in C++.
 
 ### 📜 EnigmaHack
 [![Check the project](https://github-readme-stats.vercel.app/api/pin/?username=fr1zb3e&repo=enigmahack&theme=dark)](https://github.com/venfar/enigmahack)
+
+A development the AI-Agent for the technic support. 
 
 ---
 
