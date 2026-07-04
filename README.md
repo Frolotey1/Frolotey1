@@ -56,17 +56,6 @@ An e-commerce application demonstrating OOP principles in C++.
 
 ## 📊 GitHub Stats
 
-<table>
-  <tr>
-    <
-      <img src="https://github-readme-stats.vercel.app/api?username=Frolotey1&show_icons=true&theme=dark&hide_border=true&count_private=true&v=1" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Frolotey1&layout=compact&theme=dark&hide_border=true&langs_count=6&v=1" />
-    </td>
-  </tr>
-</table>
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Frolotey1&theme=dark&hide_border=true&v=1" />
 
 ---
