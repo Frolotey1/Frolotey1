@@ -1,12 +1,91 @@
+# 👋 Hi, I'm fr1zb3e
 
-**ABOUT ME**
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=IT+College+Student;C%2B%2B+%26+C%23+Developer)](https://git.io/typing-svg)
 
-`1. My nickname is fr1zb3e.`
+---
 
-`2. I work with three programming languages such as: C, C++. I am a beginner programmer and i'll improve my skills in working with Github and other technologies.`
+## 🧑‍💻 About Me
 
-`3. My favourite programming languages are C++ and C. I spend oft time with these languages because they allow to work with pointers, links, preprocessor directives, memory, registers and etc.`
+- 🎓 2nd-year student at an IT College
+- 💻 Working with **C++** and **C#** — I love C++ for low-level control (pointers, memory management, registers) and C# for high-level productivity (LINQ, async/await, .NET ecosystem)
+- 🐣 Beginner developer, constantly learning and improving my coding practices
+- 📚 Currently studying **CMake**, **Git**, and modern development workflows
+- 🌍 From **Russia**
 
-`4. I have a small experience of the working with CMake and Git yet.`
+> *"I write code that works for now — but I'm always striving for clean, maintainable, and correct solutions"*
 
-`5. I am student of the second course in my IT-college but i have already a few projects. However, these projects have a "crutch code" and i'll try write the more correct and clean code.`
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+### Frameworks & Libraries
+![Qt](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Boost](https://img.shields.io/badge/Boost-000000?style=for-the-badge&logo=boost&logoColor=white)
+
+### Tools & Technologies
+![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+---
+
+## 📌 Featured Projects
+
+### 🖥️ ConsoleInteractionLibrary
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fr1zb3e&repo=ConsoleInteractionLibrary&theme=dark)](https://github.com/fr1zb3e/ConsoleInteractionLibrary)
+
+A C++ library for console user interaction via menu systems and data input dialogs.
+
+### ⚙️ CU (Console Utility)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fr1zb3e&repo=CU&theme=dark)](https://github.com/fr1zb3e/CU)
+
+A lightweight console utility written in Java with bilingual support (Deutsch/English).
+
+### 🛒 SeniorShop
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fr1zb3e&repo=SeniorShop&theme=dark)](https://github.com/fr1zb3e/SeniorShop)
+
+An e-commerce application demonstrating OOP principles in C++.
+
+---
+
+## 📊 GitHub Stats
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=fr1zb3e&show_icons=true&theme=dark&hide_border=true&count_private=true&v=1" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fr1zb3e&layout=compact&theme=dark&hide_border=true&langs_count=6&v=1" />
+    </td>
+  </tr>
+</table>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=fr1zb3e&theme=dark&hide_border=true&v=1" />
+
+---
+
+## 📈 Contribution Activity
+
+[![fr12b3e's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=fr1zb3e&theme=react-dark)](https://github.com/fr1zb3e)
+
+---
+
+---
+
+## 📚 Currently Learning
+
+- 🧠 Advanced **C#** (.NET, LINQ, Async/Await)
+- 🔧 Advanced **C++** (STL, Smart Pointers, Move Semantics)
+- 🐧 Linux System Programming
+- 🛠️ Git Workflows & Collaboration
+
+---
