@@ -58,22 +58,22 @@ An e-commerce application demonstrating OOP principles in C++.
 
 <table>
   <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=fr1zb3e&show_icons=true&theme=dark&hide_border=true&count_private=true&v=1" />
+    <
+      <img src="https://github-readme-stats.vercel.app/api?username=Frolotey1&show_icons=true&theme=dark&hide_border=true&count_private=true&v=1" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fr1zb3e&layout=compact&theme=dark&hide_border=true&langs_count=6&v=1" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Frolotey1&layout=compact&theme=dark&hide_border=true&langs_count=6&v=1" />
     </td>
   </tr>
 </table>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=fr1zb3e&theme=dark&hide_border=true&v=1" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Frolotey1&theme=dark&hide_border=true&v=1" />
 
 ---
 
 ## 📈 Contribution Activity
 
-[![fr12b3e's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=fr1zb3e&theme=react-dark)](https://github.com/fr1zb3e)
+[![fr12b3e's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Frolotey1&theme=react-dark)](https://github.com/Frolotey1)
 
 ---
 
