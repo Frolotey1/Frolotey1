@@ -38,17 +38,17 @@
 ## 📌 Featured Projects
 
 ### 🖥️ ConsoleInteractionLibrary
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fr1zb3e&repo=ConsoleInteractionLibrary&theme=dark)](https://github.com/fr1zb3e/ConsoleInteractionLibrary)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fr1zb3e&repo=ConsoleInteractionLibrary&theme=dark)](https://github.com/Frolotey1/ConsoleInteractionLibrary)
 
 A C++ library for console user interaction via menu systems and data input dialogs.
 
 ### ⚙️ CU (Console Utility)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fr1zb3e&repo=CU&theme=dark)](https://github.com/fr1zb3e/CU)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fr1zb3e&repo=CU&theme=dark)](https://github.com/Frolotey1/CU)
 
 A lightweight console utility written in Java with bilingual support (Deutsch/English).
 
 ### 🛒 SeniorShop
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fr1zb3e&repo=SeniorShop&theme=dark)](https://github.com/fr1zb3e/SeniorShop)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fr1zb3e&repo=SeniorShop&theme=dark)](https://github.com/Frolotey1/SeniorShop)
 
 An e-commerce application demonstrating OOP principles in C++.
 
