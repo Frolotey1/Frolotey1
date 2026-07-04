@@ -55,7 +55,7 @@ A lightweight console utility written in Java with bilingual support (Deutsch/En
 The application which demonstrating OOP principles in C++.
 
 ### Enigmahack
-[![Check the project](https://github-readme-stats.vercel.app/api/pin/?username=fr1zb3e&repo=enigmahack&theme=dark)](https://github.com/SeniorShop/SeniorShop)
+[![Check the project](https://github-readme-stats.vercel.app/api/pin/?username=fr1zb3e&repo=enigmahack&theme=dark)](https://github.com/venfar/enigmahack)
 
 ---
 
