@@ -50,7 +50,7 @@ A C++ library for console user interaction via menu systems and data input dialo
 A lightweight console utility written in Java with bilingual support (Deutsch/English).
 
 ### 🛒 SeniorShop
-[![Check the project](https://github-readme-stats.vercel.app/api/pin/?username=Frolotey1&repo=SeniorShop&theme=dark)](https://github.com/Frolotey1/SeniorShop)
+[![Check the project](https://github-readme-stats.vercel.app/api/pin/?username=fr1zb3e&repo=SeniorShop&theme=dark)](https://github.com/Frolotey1/SeniorShop)
 
 The application which demonstrating OOP principles in C++.
 
