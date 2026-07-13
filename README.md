@@ -66,13 +66,13 @@ A development the AI-Agent for the technic support.
 
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Frolotey1&theme=dark&hide_border=true&v=1" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Frolotey1&theme=blueberry&hide_border=true&count_private=true&include_all_commits=true&show=prs_merged,reviews&card_width=1200" />
 
 ---
 
 ## 📈 Contribution Activity
 
-[![fr12b3e's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Frolotey1&theme=react-dark)](https://github.com/Frolotey1)
+[![fr1zb3e's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Frolotey1&theme=react-dark)](https://github.com/Frolotey1)
 
 ---
 
