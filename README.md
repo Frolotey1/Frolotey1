@@ -80,11 +80,10 @@ A development the AI-Agent for the technic support.
 
 ## 📚 Currently Learning
 
-| Technology | Focus Area |
-|------------|------------|
-| 🖥️ Qt Framework | Cross-platform GUI, QML, Signals & Slots |
-| 🌐 ASP.NET Core | Web APIs, MVC, RESTful services |
-| 🐧 Linux System Programming | Processes, memory management, system calls |
-| 🛠️ Git Workflows | Branching strategies, code review, CI/CD |
+- 🖥️ **Qt Framework** — Cross-platform GUI development (C++)
+- 🧩 **Avalonia UI** — Cross-platform .NET GUI framework (C#, XAML, MVVM)
+- 🌐 **ASP.NET Core** — Building web APIs and RESTful services
+- 🐧 **Linux System Programming** — Processes, memory management, system calls
+- 🛠️ **Git Workflows & Collaboration** — Branching strategies, PRs, and team work
 
 ---
