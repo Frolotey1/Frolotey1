@@ -56,6 +56,7 @@ A development the AI-Agent for the technic support.
 
 ## 📊 GitHub Stats
 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Frolotey1&theme=blueberry&hide_border=true&count_private=true&include_all_commits=true&show=prs_merged,reviews&card_width=1200" />
 
 ---
 
