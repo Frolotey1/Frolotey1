@@ -40,7 +40,7 @@ A C++ library for console user interaction via menu systems and data input dialo
 ### ⚙️ ExpressGateway
 [![Check the project](https://github-readme-stats.vercel.app/api/pin/?username=Frolotey1&repo=ExpressGateway&theme=dark)](https://github.com/Frolotey1/ExpressGateway)
 
-A lightweight console utility written in Java with bilingual support (Deutsch/English).
+The connection to send and get messages between API and Express-Messenger for Corporations
 
 ### 🛒 SeniorShop
 [![Check the project](https://github-readme-stats.vercel.app/api/pin/?username=fr1zb3e&repo=SeniorShop&theme=dark)](https://github.com/SeniorShop/SeniorShop)
