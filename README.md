@@ -40,7 +40,7 @@ A C++ library for console user interaction via menu systems and data input dialo
 ### ⚙️ ExpressGateway
 [![Check the project](https://github-readme-stats.vercel.app/api/pin/?username=Frolotey1&repo=ExpressGateway&theme=dark)](https://github.com/Frolotey1/ExpressGateway)
 
-The connection to send and get messages between API and Express-Messenger for Corporations
+The connection to send and get messages between API and Express-Messenger for сorporations
 
 ### 🛒 SeniorShop
 [![Check the project](https://github-readme-stats.vercel.app/api/pin/?username=fr1zb3e&repo=SeniorShop&theme=dark)](https://github.com/SeniorShop/SeniorShop)
