@@ -25,7 +25,8 @@
 | ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) | Learning | Web APIs & RESTful services |
 | ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) | Learning | Ecosystem for C# development |
 | ![Boost](https://img.shields.io/badge/Boost-000000?style=for-the-badge&logo=boost&logoColor=white) | Learning | C++ productivity libraries |
-| ![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white) | Intermediate | Build systems & automation |
+| ![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white) | Intermediate | Build systems & libraries |
+| ![Docker](https://img.shields.io/badge/Docker-064F8C?style=for-the-badge&logo=docker&logoColor=white) | Intermediate | Build projects & automatization |
 | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) | Intermediate | Version control & collaboration |
 | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) | Intermediate | System programming & administration |
 ---
