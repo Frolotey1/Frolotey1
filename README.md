@@ -37,8 +37,8 @@
 
 A C++ library for console user interaction via menu systems and data input dialogs.
 
-### ⚙️ CU (Console Utility)
-[![Check the project](https://github-readme-stats.vercel.app/api/pin/?username=fr1zb3e&repo=CU&theme=dark)](https://github.com/Frolotey1/CU)
+### ⚙️ ExpressGateway
+[![Check the project](https://github-readme-stats.vercel.app/api/pin/?username=Frolotey1&repo=ExpressGateway&theme=dark)](https://github.com/Frolotey1/ExpressGateway)
 
 A lightweight console utility written in Java with bilingual support (Deutsch/English).
 
