@@ -67,8 +67,6 @@ A development the AI-Agent for the technic support.
 
 ---
 
----
-
 ## 📚 Currently Learning
 
 - 🖥️ **Qt Framework** — Cross-platform GUI development (C++)
@@ -79,8 +77,5 @@ A development the AI-Agent for the technic support.
 
 ---
 
----
+![Snake animation](https://raw.githubusercontent.com/Frolotey1/Frolotey1/output/snake-dark.svg?palette=github-dark&color_snake=orange)
 
-![Snake animation](https://raw.githubusercontent.com/Frolotey1/Frolotey1/output/snake.svg)
-
----
