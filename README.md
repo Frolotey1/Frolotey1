@@ -77,6 +77,5 @@ A development the AI-Agent for the technic support.
 - 🛠️ **Git Workflows & Collaboration** — Branching strategies, PRs, and team work
 
 ---
-
 ![Snake animation](https://raw.githubusercontent.com/Frolotey1/Frolotey1/output/snake-dark.svg?palette=github-dark&color_snake=orange)
 
