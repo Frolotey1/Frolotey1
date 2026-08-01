@@ -28,7 +28,7 @@
 | ![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white) | Intermediate | Build systems & libraries |
 | ![Docker](https://img.shields.io/badge/Docker-064F8C?style=for-the-badge&logo=docker&logoColor=white) | Intermediate | Build projects & automatization |
 | ![Sqlite](https://img.shields.io/badge/Sqlite-064F8C?style=for-the-badge&logo=sqlite&logoColor=white) | Beginner | Create databases to save the data |
-| ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) | Intermediate | Version control & collaboration |
+| ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) | Beginner | Version control & collaboration |
 | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) | Intermediate | System programming & administration |
 ---
 
