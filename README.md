@@ -29,9 +29,10 @@
 | ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white) | Beginner | Create databases to save the data |
 | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) | Beginner | Version control & collaboration |
 | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) | Intermediate | System programming & administration |
-## 📌 Featured Projects
 
 ---
+
+## 📌 Featured Projects
 
 ### 🖥️ ConsoleInteractionLibrary
 [![Check the project](https://github-readme-stats.vercel.app/api/pin/?username=fr1zb3e&repo=ConsoleInteractionLibrary&theme=dark)](https://github.com/Frolotey1/ConsoleInteractionLibrary)
