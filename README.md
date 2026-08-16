@@ -68,6 +68,25 @@ A development the AI-Agent for the technic support.
 
 ---
 
+## 📊 Most Used Languages
+
+<table width="100%">
+  <tr>
+    <td width="60%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Frolotey1&layout=pie&theme=blueberry&hide_border=true&langs_count=8&size_weight=0.5&count_weight=0.5" />
+    </td>
+    <td width="40%" valign="top">
+      <h3>📈 Language Stats</h3>
+      <ul>
+        <li><strong>C++</strong> — 45%</li>
+        <li><strong>C#</strong> — 30%</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+---
+
 ## 📚 Currently Learning
 
 - 🖥️ **Qt Framework** — Cross-platform GUI development (C++)
