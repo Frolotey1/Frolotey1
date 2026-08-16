@@ -2,8 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=C%2B%2B+%26+C%23+Developer;Qt+%26+Avalonia+UI;ASP.NET+Core+MVC;Always+learning)](https://git.io/typing-svg)
 
----
-
 ## 🧑‍💻 About Me
 
 - 🎓 3rd-year student at an IT College
