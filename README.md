@@ -24,13 +24,14 @@
 | ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) | Learning | Ecosystem for C# development |
 | ![Boost](https://img.shields.io/badge/Boost-000000?style=for-the-badge&logo=boost&logoColor=white) | Learning | C++ productivity libraries |
 | ![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white) | Intermediate | Build systems & libraries |
-| ![Docker](https://img.shields.io/badge/Docker-064F8C?style=for-the-badge&logo=docker&logoColor=white) | Intermediate | Build projects & automatization |
-| ![Sqlite](https://img.shields.io/badge/Sqlite-064F8C?style=for-the-badge&logo=sqlite&logoColor=white) | Beginner | Create databases to save the data |
+| ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) | Intermediate | Containerization & deployment |
+| ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) | Beginner | Learning relational databases |
+| ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white) | Beginner | Create databases to save the data |
 | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) | Beginner | Version control & collaboration |
 | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) | Intermediate | System programming & administration |
----
-
 ## 📌 Featured Projects
+
+---
 
 ### 🖥️ ConsoleInteractionLibrary
 [![Check the project](https://github-readme-stats.vercel.app/api/pin/?username=fr1zb3e&repo=ConsoleInteractionLibrary&theme=dark)](https://github.com/Frolotey1/ConsoleInteractionLibrary)
