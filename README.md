@@ -12,23 +12,45 @@
 
 ---
 
-## 🛠️ Tech Stack
-
-| Technology | Level | Status |
-| :--- | :--- | :--- |
-| ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) | Intermediate | Main language, actively improving |
-| ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) | Beginner | Learning at college |
-| ![Qt](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white) | Learning | GUI framework for C++ |
-| ![Avalonia UI](https://img.shields.io/badge/Avalonia-7B1FA2?style=for-the-badge&logo=avaloniaui&logoColor=white) | Learning | Cross-platform .NET UI framework |
-| ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) | Learning | Web APIs & RESTful services |
-| ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) | Learning | Ecosystem for C# development |
-| ![Boost](https://img.shields.io/badge/Boost-000000?style=for-the-badge&logo=boost&logoColor=white) | Learning | C++ productivity libraries |
-| ![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white) | Intermediate | Build systems & libraries |
-| ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) | Intermediate | Containerization & deployment |
-| ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) | Beginner | Learning relational databases |
-| ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white) | Beginner | Create databases to save the data |
-| ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) | Beginner | Version control & collaboration |
-| ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) | Intermediate | System programming & administration |
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>💻 Languages</h3>
+      <ul>
+        <li><nobr><img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/> — <strong>Intermediate</strong></nobr></li>
+        <li><nobr><img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white"/> — <strong>Beginner</strong></nobr></li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🖼️ Frameworks & GUI</h3>
+      <ul>
+        <li><nobr><img src="https://img.shields.io/badge/Qt-41CD52?style=flat-square&logo=qt&logoColor=white"/> — <strong>Learning</strong></nobr></li>
+        <li><nobr><img src="https://img.shields.io/badge/Avalonia-7B1FA2?style=flat-square&logo=avaloniaui&logoColor=white"/> — <strong>Learning</strong></nobr></li>
+        <li><nobr><img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white"/> — <strong>Learning</strong></nobr></li>
+        <li><nobr><img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white"/> — <strong>Learning</strong></nobr></li>
+        <li><nobr><img src="https://img.shields.io/badge/Boost-000000?style=flat-square&logo=boost&logoColor=white"/> — <strong>Learning</strong></nobr></li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🗄️ Databases</h3>
+      <ul>
+        <li><nobr><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/> — <strong>Beginner</strong></nobr></li>
+        <li><nobr><img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white"/> — <strong>Beginner</strong></nobr></li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🛠️ Tools & DevOps</h3>
+      <ul>
+        <li><nobr><img src="https://img.shields.io/badge/CMake-064F8C?style=flat-square&logo=cmake&logoColor=white"/> — <strong>Intermediate</strong></nobr></li>
+        <li><nobr><img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/> — <strong>Intermediate</strong></nobr></li>
+        <li><nobr><img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/> — <strong>Beginner</strong></nobr></li>
+        <li><nobr><img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/> — <strong>Intermediate</strong></nobr></li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
