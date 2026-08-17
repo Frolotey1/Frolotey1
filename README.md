@@ -10,7 +10,6 @@
   - **C#** — for LINQ, async/await, .NET ecosystem, Avalonia UI
 - 🐣 Beginner developer, constantly learning and improving my coding practices
 - 📚 Currently studying **CMake**, **Git**, and modern development workflows
-- 🌍 From **Russia**
 
 ---
 
