@@ -5,7 +5,7 @@
 ## 🧑‍💻 About Me
 
 - 🎓 3rd-year student at an IT College
-- 💻 Working with **C++** and **C#** — I love C++ for low-level control (pointers, memory management, registers) and C# for high-level productivity (LINQ, async/await, .NET ecosystem)
+- 💻 Working with **C++** and **C#** — I love C++ for Qt Framework and creation high-load projects and C# for high-level productivity (LINQ, async/await, .NET ecosystem, Avalonia)
 - 🐣 Beginner developer, constantly learning and improving my coding practices
 - 📚 Currently studying **CMake**, **Git**, and modern development workflows
 - 🌍 From **Russia**
