@@ -6,8 +6,8 @@
 
 - 🎓 3rd-year student at an IT College
 - 💻 **Languages, which i prefer:**
-  - **C++** — Qt Framework, high-load systems, performance-critical code
-  - **C#** — LINQ, async/await, .NET ecosystem, Avalonia UI
+  - **C++** — for Qt Framework, high-load systems, performance-critical code
+  - **C#** — for LINQ, async/await, .NET ecosystem, Avalonia UI
 - 🐣 Beginner developer, constantly learning and improving my coding practices
 - 📚 Currently studying **CMake**, **Git**, and modern development workflows
 - 🌍 From **Russia**
