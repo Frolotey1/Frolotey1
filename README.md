@@ -36,7 +36,6 @@
     <td width="50%" valign="top">
       <h3>🗄️ Databases</h3>
       <ul>
-        <li><nobr><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/> — <strong>Beginner</strong></nobr></li>
         <li><nobr><img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white"/> — <strong>Beginner</strong></nobr></li>
       </ul>
     </td>
