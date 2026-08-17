@@ -18,7 +18,7 @@
       <h3>💻 Languages</h3>
       <ul>
         <li><nobr><img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/> — <strong>Intermediate</strong></nobr></li>
-        <li><nobr><img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white"/> — <strong>Beginner</strong></nobr></li>
+        <li><nobr><img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white"/> — <strong>Middle</strong></nobr></li>
       </ul>
     </td>
     <td width="50%" valign="top">
