@@ -13,7 +13,7 @@
 
 ---
 
-## Tech stack
+## 🛠️ Tech stack
 
 <table width="100%">
   <tr>
