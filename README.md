@@ -5,11 +5,10 @@
 ## 🧑‍💻 About Me
 
 - 🎓 3rd-year student at an IT College
-- 💻 **Languages, which i prefer:**
-  - **C++** — for Qt Framework, high-load systems
-  - **C#** — for LINQ, async/await, .NET ecosystem, Avalonia UI
+- 💻 **Language, which i prefer:**
+  - **C#** — for LINQ, async/await, .NET ecosystem, Avalonia UI, EntityFrameworkCore and ASP.NET Core MVC
 - 🐣 Beginner developer, constantly learning and improving my coding practices
-- 📚 Currently studying **CMake**, **Git**, and modern development workflows
+- 📚 Currently studying **Git** and modern development workflows
 
 ---
 
@@ -20,18 +19,15 @@
     <td width="50%" valign="top">
       <h3>💻 Languages</h3>
       <ul>
-        <li><nobr><img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/> — <strong>Intermediate</strong></nobr></li>
         <li><nobr><img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white"/> — <strong>Middle</strong></nobr></li>
       </ul>
     </td>
     <td width="50%" valign="top">
       <h3>🖼️ Frameworks & GUI</h3>
       <ul>
-        <li><nobr><img src="https://img.shields.io/badge/Qt-41CD52?style=flat-square&logo=qt&logoColor=white"/> — <strong>Learning</strong></nobr></li>
         <li><nobr><img src="https://img.shields.io/badge/Avalonia-7B1FA2?style=flat-square&logo=avaloniaui&logoColor=white"/> — <strong>Learning</strong></nobr></li>
         <li><nobr><img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white"/> — <strong>Learning</strong></nobr></li>
         <li><nobr><img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white"/> — <strong>Learning</strong></nobr></li>
-        <li><nobr><img src="https://img.shields.io/badge/Boost-000000?style=flat-square&logo=boost&logoColor=white"/> — <strong>Learning</strong></nobr></li>
       </ul>
     </td>
   </tr>
@@ -45,7 +41,6 @@
     <td width="50%" valign="top">
       <h3>🛠️ Tools & DevOps</h3>
       <ul>
-        <li><nobr><img src="https://img.shields.io/badge/CMake-064F8C?style=flat-square&logo=cmake&logoColor=white"/> — <strong>Intermediate</strong></nobr></li>
         <li><nobr><img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/> — <strong>Intermediate</strong></nobr></li>
         <li><nobr><img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/> — <strong>Beginner</strong></nobr></li>
         <li><nobr><img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/> — <strong>Intermediate</strong></nobr></li>
