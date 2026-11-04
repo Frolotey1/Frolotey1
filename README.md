@@ -89,7 +89,6 @@ A development the AI-Agent for the technic support.
 
 ## 📚 Currently Learning
 
-- 🖥️ **Qt Framework** — Cross-platform GUI development (C++)
 - 🧩 **Avalonia UI** — Cross-platform .NET GUI framework (C#, XAML, MVVM)
 - 🌐 **ASP.NET Core** — Building web APIs and RESTful services
 - 🐧 **Linux System Programming** — Processes, memory management, system calls
